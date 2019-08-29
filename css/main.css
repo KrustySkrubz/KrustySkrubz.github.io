@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #001;
 }
 a:hover {
     text-decoration: underline;
@@ -35,6 +35,10 @@ footer {
 h2 {
     font-size: 4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h3 {
+    font-size; 4em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif':
 }
 
 ul.posts { 
