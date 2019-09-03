@@ -1,4 +1,4 @@
-/*comment*/
+/*background-color*/
 body {background-color: Tomato;
     margin: 60px auto; 
     width: 70%;
@@ -20,10 +20,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+/*heading*/
 h {
     font-size: 4em;
     font-family:'Helvetica', 'Impact', 'Sans-Serif';
 }
+/*paragraph*/
 p {
     font-size: 1.5em;
     line-height: 1.4em;
